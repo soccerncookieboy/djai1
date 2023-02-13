@@ -1,0 +1,11 @@
+.bob{
+    width: 100%;
+    margin-top: 0;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+body{
+    background-size: cover;
+}
